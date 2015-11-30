@@ -1,0 +1,11 @@
+{
+    "name": "hofkens/core-lib",
+    "description": "Core library voor alle basisentiteiten voor een secundaire school.",
+    "authors": [
+        {
+            "name": "Tom Hofkens",
+            "email": "Tom.Hofkens@sji.be"
+        }
+    ],
+    "require": {}
+}
